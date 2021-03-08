@@ -1,1 +1,3 @@
-lagou.message=hello config server
+lagou:
+ message:
+  hello config server
